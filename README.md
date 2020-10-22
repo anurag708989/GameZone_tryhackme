@@ -30,4 +30,7 @@ searchitem=test
 ### command john hash.txt --wordlist=rockyou.txt --format=Raw-SHA256
 
 ![](checking_sockets.png)
+## ssh tunneling command
+# ssh -L 10000:localhost:10000 agent47@10.10.73.54
+
 ![](ssh_tunneling_result.png)
