@@ -32,5 +32,6 @@ searchitem=test
 ![](checking_sockets.png)
 ## ssh tunneling command
 # ssh -L 10000:localhost:10000 agent47@10.10.73.54
+## login credentials we already know username: agent47 password:videogamer124
 
 ![](ssh_tunneling_result.png)
