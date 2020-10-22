@@ -23,3 +23,11 @@ searchitem=test
 
 
 ![](user_txt_agent47.png)
+
+
+## agent47:ab5db915fc9cea6c78df88106c6500c57f2b52901ca6c0c6218f04122c3efd14
+## hash cracking password found:videogamer124
+### command john hash.txt --wordlist=rockyou.txt --format=Raw-SHA256
+
+![](checking_sockets.png)
+![](ssh_tunneling_result.png)
