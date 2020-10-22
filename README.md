@@ -21,5 +21,5 @@ searchitem=test
 
 ![](sqlmap_details.png)
 
-<br>
+
 ![](user_txt_agent47.png)
